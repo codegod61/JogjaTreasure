@@ -1,0 +1,41 @@
+body {
+  background-image: url(img/bglogin.png);
+  background-size: cover;
+  padding-top: 20px;
+  position: center;
+}
+
+h1 {
+  color: #c48154;
+  font-family: "Poppins";
+  font-weight: 900;
+}
+
+.btn {
+  background-color: #c48154;
+  color: #fff;
+  width: 100px;
+}
+
+.bi {
+  color: #c48154;
+  font-size: 30px;
+  padding-left: 20px;
+}
+
+a {
+  color: #c48154;
+}
+.hallo {
+  font-size: 60px;
+  color: #fff;
+  font-weight: 800;
+  padding-top: 150px;
+  position: center;
+}
+
+.tag {
+  font-size: 15px;
+  color: #fff;
+  font-weight: 500;
+}
